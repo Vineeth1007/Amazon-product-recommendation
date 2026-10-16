@@ -1,0 +1,16 @@
+# Dataset - large (about 7.8 million rows); download it separately, see README.md
+ratings_Electronics.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local environment and OS files
+.env
+.DS_Store

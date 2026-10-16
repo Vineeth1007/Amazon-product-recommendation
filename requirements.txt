@@ -1,0 +1,11 @@
+# Packages imported by amazon-product-recommendation.ipynb (not pinned: the notebook does not pin versions).
+# Jupyter (e.g. `pip install notebook`) is also needed to open the notebook but is not imported by it.
+# As committed, the notebook needs scikit-learn < 0.23 (sklearn.externals.joblib) and a seaborn release that
+# still provides factorplot; see the README ("How to run") for details.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+ipython
